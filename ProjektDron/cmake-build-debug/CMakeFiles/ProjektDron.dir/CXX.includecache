@@ -1,0 +1,112 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riveri/Pulpit/ProjektDron/Bryla.hh
+iostream
+-
+Macierz_Obrotu.hh
+/home/riveri/Pulpit/ProjektDron/Macierz_Obrotu.hh
+Wektor3D.hh
+/home/riveri/Pulpit/ProjektDron/Wektor3D.hh
+Interfejs rysowania.h
+/home/riveri/Pulpit/ProjektDron/Interfejs rysowania.h
+
+/home/riveri/Pulpit/ProjektDron/Dr3D_gnuplot_api.hh
+Draw3D_api_interface.hh
+/home/riveri/Pulpit/ProjektDron/Draw3D_api_interface.hh
+list
+-
+map
+-
+utility
+-
+memory
+-
+mutex
+-
+thread
+-
+
+/home/riveri/Pulpit/ProjektDron/Draw3D_api_interface.hh
+vector
+-
+string
+-
+iostream
+-
+
+/home/riveri/Pulpit/ProjektDron/Dron.hh
+Prostopadloscian.hh
+/home/riveri/Pulpit/ProjektDron/Prostopadloscian.hh
+
+/home/riveri/Pulpit/ProjektDron/Interfejs rysowania.h
+Dr3D_gnuplot_api.hh
+/home/riveri/Pulpit/ProjektDron/Dr3D_gnuplot_api.hh
+Draw3D_api_interface.hh
+/home/riveri/Pulpit/ProjektDron/Draw3D_api_interface.hh
+
+/home/riveri/Pulpit/ProjektDron/MacierzKw.hh
+Wektor.hh
+/home/riveri/Pulpit/ProjektDron/Wektor.hh
+iostream
+-
+math.h
+-
+iomanip
+-
+
+/home/riveri/Pulpit/ProjektDron/Macierz_Obrotu.hh
+iostream
+-
+math.h
+-
+MacierzKw.hh
+/home/riveri/Pulpit/ProjektDron/MacierzKw.hh
+
+/home/riveri/Pulpit/ProjektDron/Powierzchnia.h
+iostream
+-
+Interfejs rysowania.h
+/home/riveri/Pulpit/ProjektDron/Interfejs rysowania.h
+
+/home/riveri/Pulpit/ProjektDron/Prostopadloscian.hh
+Bryla.hh
+/home/riveri/Pulpit/ProjektDron/Bryla.hh
+
+/home/riveri/Pulpit/ProjektDron/Szesciakat.hh
+Prostopadloscian.hh
+/home/riveri/Pulpit/ProjektDron/Prostopadloscian.hh
+
+/home/riveri/Pulpit/ProjektDron/Wektor.hh
+iostream
+-
+math.h
+-
+iomanip
+-
+
+/home/riveri/Pulpit/ProjektDron/Wektor3D.hh
+Wektor.hh
+/home/riveri/Pulpit/ProjektDron/Wektor.hh
+iostream
+-
+
+/home/riveri/Pulpit/ProjektDron/main.cpp
+iostream
+-
+Dr3D_gnuplot_api.hh
+/home/riveri/Pulpit/ProjektDron/Dr3D_gnuplot_api.hh
+Dron.hh
+/home/riveri/Pulpit/ProjektDron/Dron.hh
+Powierzchnia.h
+/home/riveri/Pulpit/ProjektDron/Powierzchnia.h
+Szesciakat.hh
+/home/riveri/Pulpit/ProjektDron/Szesciakat.hh
+Interfejs rysowania.h
+/home/riveri/Pulpit/ProjektDron/Interfejs rysowania.h
+
