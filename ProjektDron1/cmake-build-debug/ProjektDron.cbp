@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjektDron"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjektDron">
+				<Option output="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/ProjektDron" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjektDron"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjektDron/fast">
+				<Option output="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/ProjektDron" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjektDron/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/riveri/Pulpit/ProjektDron1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/riveri/Pulpit/ProjektDron1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Bryla.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Bryla.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Dr3D_gnuplot_api.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Dr3D_gnuplot_api.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Draw3D_api_interface.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Dron.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Dron.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Interfejs_rysowania.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/MacierzKw.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/MacierzKw.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Macierz_Obrotu.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Macierz_Obrotu.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Powierzchnia.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Prostopadloscian.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Prostopadloscian.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Szesciakat.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Szesciakat.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Wektor.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Wektor.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/Wirnik.hh">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/main.cpp">
+			<Option target="ProjektDron"/>
+		</Unit>
+		<Unit filename="/home/riveri/Pulpit/ProjektDron1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
